@@ -1,6 +1,5 @@
 # Bronstein/Keach Homily
 
-
 We are here because Lindsay and Steve are in love.  
 
 They have chosen this moment to have all of you whom they deam
@@ -19,11 +18,14 @@ them:
 something one of them did to make you laugh, 
 
 a considerate act they committed on your behalf, something you learned
-from them, 
+from them,
+
 
 a piece of their writing that touched you, 
 
+
 a time when they surprised you with their kindness.
+
 
 Perhaps a story that endlessly recursed back until you could not
 remember why it was being told.
